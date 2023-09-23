@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/player_attacking.ogg-5e307cfb6ae859e4f499c0e69b98329a.oggstr"
+
+[deps]
+
+source_file="res://Assets - Little Funny Alien/Sounds/player_attacking.ogg"
+dest_files=[ "res://.import/player_attacking.ogg-5e307cfb6ae859e4f499c0e69b98329a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
